@@ -41,6 +41,10 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 ## Multiple viewers
 
+### Domestication of Maize
+Domestication of Maize
+<param ve-map> 
+
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 

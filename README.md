@@ -44,7 +44,9 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 ### Domestication of Maize
 Domestication of Maize
 <param ve-map
-       center=> 
+       center="0,0"
+       title="spread of maize"
+       zoom="4"> 
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.

@@ -11,4 +11,7 @@ Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome
 depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid&#39;s
 _Metamorphoses_.
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"
+       label="Apollo and Daphne"
+       description="sculpture by Gian Lorenzo Bernini"
+       license="CC BY-SA 4.0">

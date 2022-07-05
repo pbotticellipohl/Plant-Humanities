@@ -14,4 +14,5 @@ _Metamorphoses_.
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"
        label="Apollo and Daphne"
        description="sculpture by Gian Lorenzo Bernini"
-       license="CC BY-SA 4.0">
+       license="CC BY-SA 4.0"
+       region="1431,487,2677,3129">

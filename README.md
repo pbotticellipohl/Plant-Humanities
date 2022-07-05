@@ -31,9 +31,19 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg"
+       label="Apollo and Daphne"
+       description="sculpture by Gian Lorenzo Bernini">
 
 ## Map
+
+## Bernini 
+_Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo
+Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work
+depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid&#39;s
+_Metamorphoses_.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"> 
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.

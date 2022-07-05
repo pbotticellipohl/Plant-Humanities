@@ -4,7 +4,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/8/84/Berninis_Apollo_och_Dafne_skapad_1622-25.jpg"
        layout="vertical">
        
-###Bernini
+### Bernini
 
 _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist Gian Lorenzo
 Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work

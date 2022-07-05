@@ -43,7 +43,8 @@ Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome
 depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid&#39;s
 _Metamorphoses_.
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"> 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"
+       region="3062,125,2395,3129"> 
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
